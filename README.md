@@ -89,7 +89,6 @@ The output consists of a clean white-themed chat window with:
 
 Messages appear instantly on the screen across multiple browser windows without page reload — proving that the socket communication is successfully implemented.
 
-
 ## SUMMARY:
 
 Overall, this project helped me understand real-time communication technology and event-driven programming using Socket.io. I gained hands-on skills in backend server setup with Node.js & Express, WebSocket handling, request-response mechanisms, and browser-server interaction.
@@ -104,6 +103,9 @@ This Real-Time Chat Application demonstrates how powerful modern JavaScript fram
 
 # Output:
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/92bac03e-8650-4e7c-bc09-b40d5452e146" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e010b8e3-c7ba-4546-930f-c0d2ba9818b5" />
 
 
 
